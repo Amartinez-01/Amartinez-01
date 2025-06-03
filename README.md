@@ -6,23 +6,22 @@
 </p>
 
 <p align="center">
-<a href="https://twitter.com/nhh_plus" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="20" width="20" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/hhpr98/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>&nbsp;
-<a href="https://www.youtube.com/channel/UCu4l-eJrIEknLQBjhRR_qDw" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="apoorvtyagi" height="20" width="20" /></a>&nbsp;
 <a href="https://github.com/hhpr98" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="apoorvtyagi" height="20" width="20" /></a>
 <a href="https://www.facebook.com/nguyenhuuhoa15.04.1998/"><img align="center" alt="Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" /></a>
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
 
-I am an undergraduate Computer science and Engineering student at IIIT-Hyderabad. C, C++, Python, Javascript, HTML, and Shell are the programming languages I am good at. I love to learn and build something new, productive, innovative and creative.
-* **I am interested in Web designing, Android development, and digital marketing**
+I am a student pursuing a degree in Systems Engineering. I have experience in programming languages such as Java and C++. I am passionate about learning and creating something new, productive, innovative, and creative.
+* **I am enthusiastic about backend development and always seek to learn more about new technologies and methodologies in this field.**
 - 🌱 I’m currently learning ...
-  - Java
-  - React js
+  
+  - Expanding my knowledge in the **Java** programming language as well as in **databases** and **frameworks.**
+    
 - 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, only if the ball is in my court!😉<br>
-- Outside tech, 📖 I love to read novels, 🖌️ do painting and skecthing, 🎵 listen to music, and 🌴 explore nature outdoors.
-- 📫 Reach out to me at: <a href="bhargavi.kurukunda@students.iiit.ac.in">bhargavi.kurukunda@students.iiit.ac.in</a>
+- ✔ Ask me about anything, I am happy to help, 😉<br>
+- Outside tech, 📖 I love reading, learning languages, 🎵 listen to music, and 🌴 explore nature outdoors.
+- 📫 Reach out to me at: <a href="angelmartinezmd01@gmail.com">angelmartinezmd01@Gmail.com</a>
 
 
