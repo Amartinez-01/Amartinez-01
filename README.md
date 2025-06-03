@@ -20,7 +20,7 @@ I am a student pursuing a degree in Systems Engineering. I have experience in pr
   - Expanding my knowledge in the **Java** programming language as well as in **databases** and **frameworks.**
     
 - 👯 I’m looking forward to collaborate on open source projects.
-- ✔ Ask me about anything, I am happy to help, 😉<br>
+- ✔ Ask me about anything, I am happy to help., 😉<br>
 - Outside tech, 📖 I love reading, learning languages, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="angelmartinezmd01@gmail.com">angelmartinezmd01@Gmail.com</a>
 
