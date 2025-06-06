@@ -24,4 +24,8 @@ I am a student pursuing a degree in Systems Engineering. I have experience in pr
 - Outside tech, 📖 I love reading, learning languages, 🎵 listen to music, and 🌴 explore nature outdoors.
 - 📫 Reach out to me at: <a href="angelmartinezmd01@gmail.com">angelmartinezmd01@Gmail.com</a>
 
+<h2>Languages and Tools  <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
+
+
+
 
